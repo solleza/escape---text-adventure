@@ -1,0 +1,13 @@
+G,amulet,mummy,20,30
+G,book,witch,40,10
+G,crystal ball,poltergeist,15,5
+G,madman,zombie,10,15
+G,medallion,astral spirit,60,10
+G,skull,ouroboros,110,40
+G,spear,dragon,150,10
+H,dog,cannibal,65,15
+H,girl,mummy,40,30
+H,holy symbol,demon,100,50
+H,mask,vampire,100,40
+H,ring,ghost bride,50,20
+H,spirit board,banshee,10,5

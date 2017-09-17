@@ -1,0 +1,38 @@
+O,abandoned room, An abandoned room - but not until recently. Something catches your eye in the corner.,4
+O,balcony, A balcony overlooking a stormy landscape. A fifty foot drop to certain death - if you're careless.,2
+O,catacombs, Dust and a terrible smell fill your nose with each breath. You stand underground - in the catacombs.,2
+O,charred room, The room smells like charcoal and the walls are black with soot. Something happened here.,4
+O,dining room, A dining room lit by a single torch. A rotten smell lingers.,4
+O,furnace room, A furnace - long since extinguished. Coal and kindling is scattered across the ground.,3
+O,gallery, Dust covered - antique paintings are strung up along the walls; A gallery of some sort.,2
+O,gymnasium, Laminate flooring and a storage locker. Dusty. Appears to be a personal gymnasium.,2
+O,garbage room, A rotten smell comes from several containers. The sound of flies buzzing fills your ears. Either someone died here - or this is the garbage room.,4
+O,kitchen, A kitchen. Dirty utensils lie in the sink. There's a blood soaked knife on the ground. Fresh.,2
+O,master bedroom, It appears to be the master bedroom of the home. Bedsheets are stained with blood from long before. ,2
+O,pentagram chamber,The room is bare - save for some  extinguished candles and a pentagram drawn onto the floor in what looks like... blood?,1
+O,servant's quarters, Corpses - several bodies strung upside down from the ceiling. All except one have rotten beyond recognition. Judging by your surroundings it appears you've stumbled into the servant's quarters.,4
+I,bloody room, A desolate scene. Blood is scattered on every surface of the room.,4
+I,larder,A cellar. Evidently used to store food - all of which has since rotted.,2
+I,storeroom,An empty storeroom - with the exception of a single box.,1
+I,vault, An opened vault room. What could be inside?,1
+I,wine cellar, Wine bottles cover rows of shelves. Some shelves are broken beyond repair - with the remains of shattered bottles beneath them.,2
+I,attic, A dusty old attic. Worn out furniture and old clothes lie about.,1
+I,crypt, Fog and a monolithic structure cloud your vision. The stench of rotting corpses fills the air.,1
+I,game room, Dusty shelves lean against long-reaching walls. Games of various types and quantities line the shelves. ,3
+I,library, Rows of bookshelves sit evenly apart. Ironically most of the books are on the ground.,2
+I,organ room, An instrument lies in the center of the room. Judging from the pipes protruding from it and the rows of keys obviously meant for playing, you can see that it's an organ,,2
+I,operating laboratory, Surgical instruments lie on the floor next to an operating table. The walls are stained with blood splatters, while the table is clean.,2
+E,chasm,There's nothing of value here.,2
+E,creaky hallway, There's nothing of value here.,4
+E,dusty hallway, There's nothing of value of here.,4
+E,ballroom, There's nothing of value here.,4
+E,chapel, There's nothing of value here.,1
+E,conservatory, There's nothing of value here.,1
+E,gardens, There's nothing of value here.,2
+E,graveyard, There's nothing of value here.,1
+E,patio, There's nothing of value here.,3
+E,research laboratory, There's nothing of value here.,2
+E,statuary corridor, There's nothing of value here.,2
+E,tower, There's nothing of value here.,2
+E,underground lake, There's nothing of value here.,2
+S,mystic elevator, # room can teleport. not implemented yet,1

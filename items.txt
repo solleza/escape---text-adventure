@@ -1,0 +1,34 @@
+O,amulet,(omen) A flawless red gem encased in a spotless silver casing. Emits otherworldly light when exposed to sunlight.
+O,book,(omen) A dusty old tome - worn down by the passage of time. A sinister aura exudes from its pages.
+O,crystal ball,(omen) A cracked sphere made of crystal - creates distorted visions of the past and future.
+O,dog,(omen) A mangy hound - visibly ridden with disease. It's movements are erratic - almost as if it's possessed.
+O,girl,(omen) A lost child pleading for her parents to find her.
+O,holy symbol,(omen) A holy crucifix - it's been stained with a red liquid and strung together with a clove of garlic.
+O,madman,(omen) A shivering old man screaming madness at the top of his lungs. He's hiding from something.
+O,mask,(omen) A mask similar to what you would see at a renaissance fair. It's cracked near one of the eyeholes.
+O,medallion,(omen) Appears to be an ancient heirloom of sorts; sends a shock through your fingertips when you squeeze it.
+O,ring,(omen) An old wedding ring. Picking it up causes you to be surrounded by a ghostly aura.
+O,skull,(omen) A skull. It doesn't look like it belonged to a human - or any other known creature.
+O,spear,(omen) A steel-tipped spear: rusted and dirty. Despite it's age it's in decent condition.
+O,spirit board,(omen) A wooden board with a collection of letters and numbers printed upon it. It has a sinister aura about it.
+A,armor,(Armor) Iron armor with chain mail. Heavy and fit for a knight.,30
+W,axe,(Weapon) An iron axe. Moderate weight - sure to provide as a tool for self defense.,30
+W,blood dagger,(Weapon) Am exceedingly sharp crimson blade. Light - but dangerous to wield.,70
+W,dynamite,(Weapon) A bundle of dynamite. Considerable explosive power.,120
+W,revolver,(Weapon) A powerful pistol. Sure to aid one in hunting even the most ferocious of beasts.,60
+W,sacrificial dagger,(Weapon) A blunt and primitive blade. Blood stains its surface.,50
+R,adrenaline shot,(Recovery) A syringe filled with partially diluted adrenaline. Alleviates pain from wounds.,20
+R,bottle,(Recovery) A plain glass bottle filled with water.,40
+R,healing salve,(Recovery) A yellow pigmented ointment with healing properties.,70
+R,medical kit,(Recovery) A small box containing the necessary supplies for dealing with more serious injuries,100
+R,smelling salts,(Recovery) A base inhalant used to arouse consciousness.,30
+vault key
+angel feather
+bell
+candle
+dark dice
+idol
+lucky stone
+music box
+puzzle box
+rabbit's foot
